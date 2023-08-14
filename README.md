@@ -4,7 +4,5 @@ What are my programming skills?
 
 + Python
 + C#
-+ HTML ->basics
-+ Lua
 
 That's all, thanks for visiting.
