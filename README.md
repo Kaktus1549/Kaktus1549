@@ -4,7 +4,7 @@ What are my programming skills?
 
 + Python
 + C#
-+ Web development (Tailwind, React, ...)
++ Web development (React, TypeScript, Tailwind, ...)
 + A little bit of scripting in bash
 
 That's all, thanks for visiting.
