@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm KaKtus1549. I have experience using linux and windows operating systems. My other skills are basic networking knowladge and also I'm currently studying cyber security<br><br>My skills include:<br><br>- Python<br>- C#<br>- Web development (React, TypeScript, Tailwind, ...)<br>- A little bit of scripting in bash
+Hey there! I'm KaKtus1549. High school student diving into cybersecurity, with a passion for computers, history, and airplanes. I have experience using linux and windows operating systems. My other skills include networking knowladge, web development or virtualization (Docker, VMware, ...)
 
 
 # 💻 Tech Stack:
